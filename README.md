@@ -2,7 +2,7 @@
 
 **A Simple PHP Encryption/Decryption Library.**
 
-
+![Main GUI](https://raw.github.com/iNeoTeam/CryptoR/master/CryptoR.png?raw=true)
 
 ## Usage
 
